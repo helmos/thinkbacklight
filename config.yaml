@@ -1,0 +1,6 @@
+brightnessDevPath: /sys/class/backlight/intel_backlight/brightness
+powerSupplyDevPath: /sys/class/power_supply/AC/online
+State:
+  BrightnessOnBat: "8200"
+  BrightnessOnAC: "18242"
+  PrevState: "1"
